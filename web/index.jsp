@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Innovation Labs</h1>
+        <h1>Miracle Innovation Labs</h1>
     </body>
 </html>
