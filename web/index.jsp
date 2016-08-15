@@ -15,9 +15,9 @@
         <h1>Miracle Innovation Labs</h1>
         <h1>Miracle software systems</h1>
         <h1>vizag</h1>
-		<header>
+	
 		    <h1>MSS</h1>
-			</header>
+		
 			<h2>Innovation team</h2>
 			<h2>Innovation labs</h2>
 			
